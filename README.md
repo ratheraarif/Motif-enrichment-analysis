@@ -1,6 +1,6 @@
 # Motif-enrichment-analysis
 
-This work was part of the workshop on Single-Cell ATAC-seq Analysis organized by the Cell Discovery Network at Boston Children’s Hospital, where I presented a session titled “Regulatory Motif Enrichment Analysis.”
+This work was part of the workshop on Single-Cell ATAC-seq Analysis organized by the Cell Discovery Network at Boston Children’s Hospital and Harvard Medical School, where I presented a session titled “Regulatory Motif Enrichment Analysis.”
 
 In this tutorial, we’ll learn how to analyze DNA sequence motifs. Motifs are short DNA patterns that transcription factors bind to, and analyzing them can help us understand gene regulation.
 
