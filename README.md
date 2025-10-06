@@ -12,3 +12,4 @@ We’ll explore two complementary ways to study motifs:
 
 #### please download the `rds` object form here 
 https://drive.google.com/file/d/1LfpMahzGBrT-VAprQ3pmIOOV6ZdmMqNQ/view?usp=sharing
+and follow the `motif_enrichment_analysis.ipynb`
